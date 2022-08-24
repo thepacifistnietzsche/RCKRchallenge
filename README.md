@@ -15,4 +15,6 @@ They have apparently prepared a solution which skips the null value for some cou
 Correct program - Untitled2
 Program that give solution to the program - Challengesolution
 
-Criticism and improvements are welcome
+Criticism and improvements are welcome. 
+
+I myself improved on Saratchandra's solution to reflect the new problem statement
